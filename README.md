@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/github/downloads/Konoaru384/NoSpawn/total?label=Total%20Downloads&color=blue&style=for-the-badge" alt="Total Downloads" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/EXILED-9.6+%2B-blueviolet?style=for-the-badge" alt="EXILED 9.6" />
+      <img src="https://img.shields.io/badge/EXILED-9.6%2B-blueviolet?style=for-the-badge" alt="EXILED 9.6" />
     </td>
     <td>
       <a href="https://discord.gg/vxGeGFr5Bc">
